@@ -1,6 +1,6 @@
 {
   "name": "travis-open",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Opens your Travis-ci repository from the current github repo",
   "main": "travis-open",
   "scripts": {
