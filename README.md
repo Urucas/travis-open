@@ -11,4 +11,6 @@ As simply as
 ```bash
 travis-open
 ```
-inside your github repository
+inside your github repository.
+
+Based on [git-open](https://github.com/paulirish/git-open) idea & some of their code.
