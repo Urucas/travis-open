@@ -1,0 +1,28 @@
+{
+  "name": "travis-open",
+  "version": "0.0.1",
+  "description": "Opens your Travis-ci repository from the current github repo",
+  "main": "travis-open",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Urucas/travis-open.git"
+  },
+  "preferGlobal": true,
+  "bin": {
+    "travis-open": "./travis-open"
+  },
+  "keywords": [
+    "travis",
+    "test",
+    "open"
+  ],
+  "author": "Urucas <hello@urucas.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Urucas/travis-open/issues"
+  },
+  "homepage": "https://github.com/Urucas/travis-open#readme"
+}
